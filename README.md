@@ -31,7 +31,7 @@ segments based on purchasing behavior.
 ### TECHNOLOGY USED 
 **PYTHON:** The primary data language used for data analysis
 
-**pandas:** the pandas lib is used for manipulation and analysis
+**PANDAS:** the pandas lib is used for manipulation and analysis
 
 **KMeans:** KMeans is used for future warning 
 
